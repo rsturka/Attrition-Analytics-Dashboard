@@ -4,4 +4,6 @@ This dashboard provides actionable insights into factors influencing attrition r
 
 ![Dashboard](https://github.com/rsturka/Attrition-Analytics-Dashboard/blob/main/Images/Dashboard.png)
 
+Utilizing Power BI, I have developed a comprehensive dashboard leveraging data from 1,470 rows and 57 columns to analyze key metrics related to employee retention and attrition within the organization
+
 [Study Reference](https://github.com/rsturka/Attrition-Analytics-Dashboard/blob/main/Project.pbix)
