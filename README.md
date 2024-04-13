@@ -1,3 +1,5 @@
+![Microsoft PowerBI](https://img.shields.io/badge/Microsoft-PowerBI-cyan.svg)
+
 # Attrition Analytics Dashboard
 
 This dashboard provides actionable insights into factors influencing attrition rates, allowing for strategic interventions to be implemented effectively, ultimately leading to enhanced employee retention and organizational stability.
