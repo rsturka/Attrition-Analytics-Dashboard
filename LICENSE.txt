@@ -1,4 +1,4 @@
-Object Detection IN FIFA Game
+Attrition Analytics Dashboard
 Copyright (C) 2024 Rajbir Singh
 
 All Rights Reserved.
