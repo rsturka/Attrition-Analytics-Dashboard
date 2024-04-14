@@ -16,7 +16,9 @@ This dashboard provides actionable insights into factors influencing attrition r
 
 **♦ Communicating Insights and Analysis**
 
-Utilizing Power BI, I have developed a comprehensive dashboard leveraging data from 1,470 rows and 57 columns to analyze key metrics related to employee retention and attrition within the organization
+## Areas of Focus
+
+Utilizing **Power BI**, I have developed a comprehensive dashboard leveraging data from 1,470 rows and 57 columns to analyze key metrics related to employee retention and attrition within the organization
 
 **♦ Attrition by Age**
 
