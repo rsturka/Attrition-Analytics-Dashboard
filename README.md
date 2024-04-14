@@ -21,6 +21,8 @@ This dashboard provides actionable insights into factors influencing attrition r
 
 Utilizing **Power BI**, I have developed a comprehensive dashboard leveraging data from 1,470 rows and 57 columns to analyze key metrics related to employee retention and attrition within the organization
 
+**♦ Data Cleaning with Excel**
+
 **♦ Attrition by Age**
 
 **♦ Attrition by Education**
