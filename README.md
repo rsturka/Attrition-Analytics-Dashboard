@@ -1,4 +1,5 @@
 ![Microsoft PowerBI](https://img.shields.io/badge/Microsoft-PowerBI-yellow.svg)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-green.svg)
 
 # Attrition Analytics Dashboard
 
